@@ -1,5 +1,3 @@
-# aboutme
-My personal repository
 👋 Hi, I’m Hilal Ahmad.
 👀 I’m interested in Mobile App Development and Programming.
 🌱 I’m currently learning Flutter App Development.
