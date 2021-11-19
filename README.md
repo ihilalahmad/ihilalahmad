@@ -3,7 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hilal Ahmad</h1>
 <h3 align="center">A passionate Mobile App Developer from Pakistan.</h3>
 
-- 👨‍💻 A Software Engineer.
 - 👀 I’m interested in Android and iOS development.
 - 🌱 I’m currently learning Flutter App Development.
 - 💞️ I’m working as a an Android Developer.
