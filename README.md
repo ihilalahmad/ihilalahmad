@@ -11,8 +11,8 @@
 <p align="left">
 
 <a href = "https://www.youtube.com/channel/UCc43dNiddEs41TUACap4Fcw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://www.instagram.com/its_hilalahmad/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://twitter.com/ihilalahmad"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/codingzest/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/coding_zest"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.linkedin.com/in/ihilalahmad/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
