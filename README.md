@@ -27,7 +27,7 @@
 <h3 align="left">Stats:</h3>
 <img src = "https://github-readme-stats.vercel.app/api?username=ihilalahmad&show_icons=true&theme=radical"/>
 <h3 align="left">Ranking:</h3>
-<a href="https://stardev.io/developers/ihilalahmad"><img alt="Check out ihilalahmad&apos;s profile on stardev.io" src="https://stardev.io/developers/ihilalahmad/badge/languages/global.svg" /></a>
+<a href="https://stardev.io/developers/ihilalahmad"><img alt="Check out ihilalahmad's profile on stardev.io" src="https://stardev.io/developers/ihilalahmad/badge/languages/country.svg" /></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
