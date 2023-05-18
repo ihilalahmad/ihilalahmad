@@ -23,6 +23,6 @@
 
 
 <h3 align="left">Stats:</h3>
-<img src = "https://github-readme-stats.vercel.app/api?username=Shahidzbi4213&show_icons=true&theme=radical"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=ihilalahmad&show_icons=true&theme=radical"/>
 <h3 align="left">Ranking:</h3>
 <img alt="Check out Shahidzbi4213&apos;s profile on stardev.io" src="https://stardev.io/developers/Shahidzbi4213/badge/languages/locality.svg" />
