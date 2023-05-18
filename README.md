@@ -16,7 +16,7 @@
 <a href="https://www.facebook.com/itsHilalTech" target="blank"><img align="center" src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Hilal Ahmad" height="30" width="30" /></a>
 <a href="https://www.instagram.com/codingzest/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hilal Ahamd" height="30" width="40" /></a>
 <a href="https://twitter.com/coding_zest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hilal Ahmad" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ihilalahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hilal Ahmad" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/ihilalahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hilal Ahmad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
