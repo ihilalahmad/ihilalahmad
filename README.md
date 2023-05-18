@@ -12,12 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.youtube.com/channel/UCc43dNiddEs41TUACap4Fcw" target="blank"><img align="center" src="https://www.state.gov/wp-content/uploads/2020/07/72-729738_youtube-red-circle-circle-youtube-logo-png-clipart.jpg" alt="Hilal Ahmad" height="30" width="40" /></a>
-  
-  <a href="https://www.facebook.com/itsHilalTech" target="blank"><img align="center" src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Hilal Ahmad" height="30" width="40" /></a>
-  
+<a href="https://www.youtube.com/channel/UCc43dNiddEs41TUACap4Fcw" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" alt="Hilal Ahmad" height="30" width="40" /></a>
+<a href="https://www.facebook.com/itsHilalTech" target="blank"><img align="center" src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Hilal Ahmad" height="30" width="40" /></a>
 <a href="https://instagram.com/shahid__iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shahid Iqbal" height="30" width="40" /></a>
-  <a href="https://twitter.com/shahidzbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shahid Iqbal" height="30" width="40" /></a>
+ <a href="https://twitter.com/shahidzbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shahid Iqbal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shahidzbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahid Iqbal" height="30" width="40" /></a>
 </p>
 
