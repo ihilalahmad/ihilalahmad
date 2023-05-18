@@ -26,3 +26,9 @@
 
 <h3 align="left">Stats:</h3>
 <img src = "https://github-readme-stats.vercel.app/api?username=ihilalahmad&show_icons=true&theme=radical"/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=hassank185&icon=0&color=0)](https://visitcount.itsvg.in)
