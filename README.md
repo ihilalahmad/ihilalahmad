@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hilal Ahmad</h1>
-<h3 align="center">A passionate Mobile App Developer from Pakistan</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=shahidzbi4213&label=Profile%20views&color=0e75b6&style=flat" alt="Shahid Iqbal" /> </p>
+<h3 align="center">A passionate Mobile App Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **<a href="https://play.google.com/store/apps/details?id=click.aymakan.net">Aymakan Click App</a>** 
 
