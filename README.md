@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 💬 Ask me about **Android, Kotlin, Java, Flutter ,Compose**
+- 💬 Ask me about **Android, Kotlin, Java, Flutter, Compose**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
