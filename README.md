@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.youtube.com/channel/UCc43dNiddEs41TUACap4Fcw" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" alt="Hilal Ahmad" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCc43dNiddEs41TUACap4Fcw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/2048px-YouTube_social_red_circle_%282017%29.svg.png" alt="Hilal Ahmad" height="40" width="40" /></a>
 <a href="https://www.facebook.com/itsHilalTech" target="blank"><img align="center" src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Hilal Ahmad" height="30" width="30" /></a>
 <a href="https://www.instagram.com/codingzest/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hilal Ahamd" height="30" width="40" /></a>
 <a href="https://twitter.com/coding_zest" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="Hilal Ahmad" height="30" width="30" /></a>
