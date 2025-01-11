@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Hilal Ahmad!  
-🚀 Software Engineer | 🌱 Mobile App Engineer | 🎯 Problem Solver
+🚀 Software Engineer | 📱 Mobile App Engineer | 🎯 Problem Solver
 
 ### 🌟 About Me
 - 🏢 Currently crafting in **[React Native Expo](https://reactnative.dev/docs/environment-setup)**.
