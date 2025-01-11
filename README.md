@@ -8,9 +8,8 @@
 
 
 ### 🛠 Tech Stack
-![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)
 ![iOS](https://img.shields.io/badge/iOS-black?style=flat&logo=apple)
