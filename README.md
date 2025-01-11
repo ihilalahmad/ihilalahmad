@@ -22,26 +22,26 @@
 <table>
   <tr>
     <td align="">
-      <h4><a href="https://github.com/hashirshoaeb/star_book">Starbook</a></h4>
-      <p>A digital diary and mood tracking app to keep track of your mood and productivity.</p>
+      <h4><a href="https://github.com/ihilalahmad/tour_flutter_responsive_app">Responsive App - Flutter</a></h4>
+      <p>A simple application built in flutter which show different places, the app is responsive across all platforms.</p>
     </td>
     <td align="">
-      <h4><a href="https://github.com/qurantalk">QuranTalk</a></h4>
-      <p>An emotional well-being and mental health app guided by the Quran.</p>
+      <h4><a href="https://github.com/ihilalahmad/todo-app-react-native">Todo App - React Native</a></h4>
+      <p>A simple todo application built in React Native using Typescript.</p>
     </td>
     <td align="">
-      <h4><a href="https://topmate.io/hashirshoaeb/1361164">Motivation | Age counter</a></h4>
-      <p>A minimal screensaver for macOS that shows your real-time age down to the second.</p>
+      <h4><a href="https://github.com/ihilalahmad/wallpaper-app-rn">Wallpaper App - React Native</a></h4>
+      <p>A minimal wallpaper application which displays wallpapers, built in React Native using Typescript.</p>
     </td>
   </tr>
   <tr>
     <td align="">
-      <h4><a href="https://github.com/hashirshoaeb/home">Home</a></h4>
-      <p>Portfolio website template to showcase projects and achievements.</p>
+      <h4><a href="https://github.com/ihilalahmad/ImagePickerAndroid">Image Picker App - Android - Java</a></h4>
+      <p>An image picker appliaction built using Java in Native Android.</p>
     </td>
     <td align="">
-      <h4><a href="https://github.com/hashirshoaeb/portfolio">Portfolio</a></h4>
-      <p>A static website template for freelancers and indie developers.</p>
+      <h4><a href="https://github.com/ihilalahmad/CryptoCurrencyApp">Crypto Currency App - Android - Kotlin</a></h4>
+      <p>An android appliaction which fetchs different crypto currencies from an api and show them in a list, app is built in Native android using Kotlin.</p>
     </td>
     <td></td>
   </tr>
@@ -52,7 +52,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/ihilalahmad/)
 [![YouTube](https://img.shields.io/badge/-YouTube-tomato?style=flat)](https://www.youtube.com/channel/UCc43dNiddEs41TUACap4Fcw)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat)](https://www.instagram.com/codingzest/)
-[![Twitter](https://img.shields.io/badge/-Twitter-black)](https://twitter.com/coding_zest) 
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/coding_zest) 
 
 
 ### Support my work
