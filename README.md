@@ -15,25 +15,48 @@
 ![iOS](https://img.shields.io/badge/iOS-black?style=flat&logo=apple)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://www.youtube.com/channel/UCc43dNiddEs41TUACap4Fcw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/2048px-YouTube_social_red_circle_%282017%29.svg.png" alt="Hilal Ahmad" height="30" width="30" /></a>
-<a href="https://www.facebook.com/itsHilalTech" target="blank"><img align="center" src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Hilal Ahmad" height="30" width="30" /></a>
-<a href="https://www.instagram.com/codingzest/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hilal Ahamd" height="30" width="40" /></a>
-<a href="https://twitter.com/coding_zest" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" alt="Hilal Ahmad" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/ihilalahmad/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="Hilal Ahmad" height="30" width="30" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.android.com/studio?gclid=Cj0KCQiA4aacBhCUARIsAI55maGhJlrF3nY4KnxvrDG7nH8KKb8AhxzaxvHOFaSNF1PJ1OslUYLySoaAuIDEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" alt="android studio" width="45" height="45"/> </a><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">  <img src="https://miro.medium.com/v2/resize:fit:320/0*ObJbOfJnx4QIPUq9.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>  </p>
+### 🚀 Featured Projects
 
 
-<h3 align="left">Stats:</h3>
-<img src = "https://github-readme-stats.vercel.app/api?username=ihilalahmad&show_icons=true&theme=radical"/>
-<h3 align="left">Ranking:</h3>
-<a href="https://stardev.io/developers/ihilalahmad"><img alt="Check out ihilalahmad's profile on stardev.io" src="https://stardev.io/developers/ihilalahmad/badge/languages/country.svg" /></a>
+<table>
+  <tr>
+    <td align="">
+      <h4><a href="https://github.com/hashirshoaeb/star_book">Starbook</a></h4>
+      <p>A digital diary and mood tracking app to keep track of your mood and productivity.</p>
+    </td>
+    <td align="">
+      <h4><a href="https://github.com/qurantalk">QuranTalk</a></h4>
+      <p>An emotional well-being and mental health app guided by the Quran.</p>
+    </td>
+    <td align="">
+      <h4><a href="https://topmate.io/hashirshoaeb/1361164">Motivation | Age counter</a></h4>
+      <p>A minimal screensaver for macOS that shows your real-time age down to the second.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="">
+      <h4><a href="https://github.com/hashirshoaeb/home">Home</a></h4>
+      <p>Portfolio website template to showcase projects and achievements.</p>
+    </td>
+    <td align="">
+      <h4><a href="https://github.com/hashirshoaeb/portfolio">Portfolio</a></h4>
+      <p>A static website template for freelancers and indie developers.</p>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+
+### 🌐 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/ihilalahmad/)
+[![YouTube](https://img.shields.io/badge/-YouTube-tomato?style=flat)](https://www.youtube.com/channel/UCc43dNiddEs41TUACap4Fcw)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat)](https://www.instagram.com/codingzest/)
+[![Twitter](https://img.shields.io/badge/-Twitter-black)](https://twitter.com/coding_zest) 
+
+
+### Support my work
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
