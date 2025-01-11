@@ -1,13 +1,20 @@
-<h1 align="center">Hi 👋, I'm Hilal Ahmad</h1>
-<h3 align="center">A passionate Mobile App Developer from Pakistan</h3>
+## 👋 Hi there, I'm Hilal Ahmad!  
+🚀 Software Engineer | 🌱 Mobile App Engineer | 🎯 Problem Solver
 
-- 🔭 I’m currently working on **<a href="https://play.google.com/store/apps/details?id=click.aymakan.net">Aymakan Click App</a>** 
+### 🌟 About Me
+- 🏢 Currently crafting in **[React Native Expo](https://reactnative.dev/docs/environment-setup)**.
+- 💻 Specializing in **Native Android, Flutter, and scalable systems**.
+- 🌍 Open to freelance projects and collaboration on innovative apps.
 
-- 🌱 I’m currently learning **Jetpack Compose**
 
-- 👯 I’m looking to collaborate on **Android Projects**
+### 🛠 Tech Stack
+![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)
+![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)
+![iOS](https://img.shields.io/badge/iOS-black?style=flat&logo=apple)
 
-- 💬 Ask me about **Android, Kotlin, Java, Flutter, Compose**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
