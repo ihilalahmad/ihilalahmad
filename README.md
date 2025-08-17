@@ -2,7 +2,7 @@
 🚀 Software Engineer | 📱 Mobile App Engineer | 🎯 Problem Solver
 
 ### 🌟 About Me
-- 🏢 Currently crafting in **[React Native Expo](https://reactnative.dev/docs/environment-setup)**.
+- 🏢 Currently crafting in **[Laravel](https://laravel.com) and [NextJs](https://nextjs.org)**.
 - 💻 Specializing in **Native Android, Flutter, and scalable systems**.
 - 🌍 Open to freelance projects and collaboration on innovative apps.
 
